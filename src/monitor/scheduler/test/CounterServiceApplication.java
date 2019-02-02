@@ -1,8 +1,6 @@
 package monitor.scheduler.test;
 
 import javafx.application.Application;
-import javafx.concurrent.WorkerStateEvent;
-import javafx.event.EventHandler;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 import monitor.scheduler.handlers.ButtonUpdater;
